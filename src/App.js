@@ -1,21 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import Reggi from './icons/reggi27.png';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={Reggi} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is now my App Muahahaha.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Cheez0id"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Go to Github Knave!!
         </a>
       </header>
     </div>
