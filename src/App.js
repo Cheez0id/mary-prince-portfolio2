@@ -9,6 +9,9 @@ function App() {
         <p>
           This is now my App Muahahaha.
         </p>
+        <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
         <a
           className="App-link"
           href="https://github.com/Cheez0id"
@@ -19,6 +22,7 @@ function App() {
         </a>
       </header>
     </div>
+    
   );
 }
 
