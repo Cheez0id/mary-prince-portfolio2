@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mary-prince-portfolio2/static/css/main.ebbd7840.css",
+    "main.js": "/mary-prince-portfolio2/static/js/main.19a17cb3.js",
+    "static/js/787.f08ad1de.chunk.js": "/mary-prince-portfolio2/static/js/787.f08ad1de.chunk.js",
+    "static/media/reggi27.png": "/mary-prince-portfolio2/static/media/reggi27.0137f7613c49fedc59cf.png",
+    "index.html": "/mary-prince-portfolio2/index.html",
+    "main.ebbd7840.css.map": "/mary-prince-portfolio2/static/css/main.ebbd7840.css.map",
+    "main.19a17cb3.js.map": "/mary-prince-portfolio2/static/js/main.19a17cb3.js.map",
+    "787.f08ad1de.chunk.js.map": "/mary-prince-portfolio2/static/js/787.f08ad1de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebbd7840.css",
+    "static/js/main.19a17cb3.js"
+  ]
+}
